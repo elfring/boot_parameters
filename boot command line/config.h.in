@@ -1,0 +1,8 @@
+#ifndef PARAMETER_CONFIG_H_493226901B804F7E966C70A8BFBC3CE9
+#define PARAMETER_CONFIG_H_493226901B804F7E966C70A8BFBC3CE9
+
+#define boot_command_line_VERSION_MAJOR @boot_command-line_VERSION_MAJOR@
+#define boot_command_line_VERSION_MINOR @boot_command-line_VERSION_MINOR@
+#define boot_command_line_VERSION_PATCH @boot_command-line_VERSION_PATCH@
+
+#endif

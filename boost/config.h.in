@@ -1,0 +1,8 @@
+#ifndef PARAMETER_CONFIG_H_A13C2E84A55747F7A5E3C240118D8957
+#define PARAMETER_CONFIG_H_A13C2E84A55747F7A5E3C240118D8957
+
+#define boot_command_Spirit_VERSION_MAJOR @boot_command-Spirit_VERSION_MAJOR@
+#define boot_command_Spirit_VERSION_MINOR @boot_command-Spirit_VERSION_MINOR@
+#define boot_command_Spirit_VERSION_PATCH @boot_command-Spirit_VERSION_PATCH@
+
+#endif
